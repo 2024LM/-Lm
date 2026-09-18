@@ -1,7 +1,7 @@
 {
-  "config_version": 2,
-  "latest_version_code": 2,
-  "min_supported_version_code": 2,
+  "config_version": 1,
+  "latest_version_code": 1,
+  "min_supported_version_code": 1,
   "update": {
     "url": "https://github.com/2024LM/CustomsStudyMobile/releases/latest",
     "title": "يتوفر تحديث جديد",
