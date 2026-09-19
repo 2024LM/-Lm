@@ -3,7 +3,7 @@
   "latest_version_code": 1,
   "min_supported_version_code": 1,
   "update": {
-    "url": "https://github.com/2024LM/-Lm/releases/latest",
+    "url": "",
     "title": "يتوفر تحديث جديد للمنصة",
     "message": "يرجى تحديث التطبيق للحصول على أحدث بنوك الأسئلة والإحصائيات والتحسينات."
   },
@@ -20,7 +20,7 @@
       "message": "يمكنك الآن متابعة اختيار عدد اكبر من محور واحد في واجهة محاور استمتع ✨.",
       "type": "info",
       "date": "الآن",
-      "url": "https://github.com/2024LM/-Lm"
+      "url": ""
     },
     {
       "id": "notif_stats_chart",
@@ -31,12 +31,12 @@
     }
   ],
   "rating_prompt": {
-    "enabled": false,
+    "enabled": true,
     "store_url": "",
     "title": "ما رأيك في منصة المراجعة؟",
     "message": "إذا كان التطبيق يساعدك في المراجعة، اختر تقييمك ثم شاركنا رأيك في المتجر.",
-    "min_usage_days": 3,
-    "min_launches": 5,
-    "repeat_after_days": 14
+    "min_usage_days": 0.5,
+    "min_launches": 1,
+    "repeat_after_days": 2
   }
 }
