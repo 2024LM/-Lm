@@ -1,7 +1,7 @@
 {
   "config_version": 3,
   "latest_version_code": 2,
-  "min_supported_version_code": 2,
+  "min_supported_version_code": 1,
   "update": {
     "url": "",
     "title": "يتوفر تحديث جديد للمنصة",
@@ -9,9 +9,9 @@
   },
   "announcement": {
     "enabled": true,
-    "id": "notice_2026_01",
-    "title": "مرحباً بكم في التحديث الجديد",
-    "message": "تمت إضافة مركز الإشعارات والتنبيهات المباشرة، مع عرض أعمدة النشاط اليومي والأسبوعي والشهري مباشرة في الواجهة الرئيسية."
+    "id": "notice_2026_02",
+    "title": "اهلا يا اصدقائي اغبياء ",
+    "message": "كيف حالكم يا اغبياء هه"
   },
   "notifications": [
     {
