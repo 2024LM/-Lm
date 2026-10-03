@@ -1,6 +1,6 @@
 {
   "config_version": 3,
-  "latest_version_code": 2,
+  "latest_version_code": 10001,
   "min_supported_version_code": 1,
   "update": {
     "url": "https://github.com/2024LM/CustomsStudyMobile1/actions/runs/36728656959/artifacts/11103409038",
